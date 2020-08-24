@@ -2,21 +2,7 @@
     margin: 0;
     padding:0;
 }
-
-tr {
-    height: 80px;
-}
-
-td {
-    width: 80px;
-}
-
-tr:first-child,
-tr:last-child {
-    height: 25px;
-}
-
-td:first-child,
-td:last-child {
-    width: 25px;
+.pole {
+    font-size: 3rem;
+    text-align: center;
 }
